@@ -1,4 +1,4 @@
-# Meeting Notes - 2026-06-30
+# Meeting Notes - June 30, 2026
 
 **Meeting Time**: [Time]
 **Location**: [Location/Zoom]
@@ -29,4 +29,4 @@ Domain_year_publisherName_JournalName_title
 - 
 
 **Notes by**: Ahsan 
-**Date**: 2026-06-30
+**Date**: June 30, 2026

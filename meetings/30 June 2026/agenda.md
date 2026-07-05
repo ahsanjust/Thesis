@@ -1,4 +1,4 @@
-# Meeting Agenda - 2026-06-30
+# Meeting Agenda - June 30, 2026
 
 **Meeting Time**: ~9:00pm to 10:15pm
 **Location**: CSE 227

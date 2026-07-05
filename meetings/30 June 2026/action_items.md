@@ -1,4 +1,4 @@
-# Action Items - Meeting: 2026-06-30
+# Action Items - Meeting: June 30, 2026
 
 ---
 
