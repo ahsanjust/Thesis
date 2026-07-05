@@ -5,7 +5,7 @@
 ## Tasks
 
 - [ ] Complete literature review (All the papers that exists) on the Feature selection algorithm/technique
-- [ ] Then Cluster the based on Domains   
+- [ ] Then Cluster those papers based on Domains   
   - Deadline: 2026-07-07
 
 ---

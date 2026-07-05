@@ -7,8 +7,20 @@
 
 ## Topics Discussed
 
-### 1. Thesis Structure
+The main journal i should give priority:
+- scie
+- sci
+- ssci
+- esci
 
+where to check journals:
+clarivate master journal list
+xcitation
+
+Paper naming style:
+Domain_year_publisherName_JournalName_title
+
+### 1. Thesis Structure
 - Approved directory structure
 - Weekly meetings confirmed
 - Agreed on communication method between meetings
